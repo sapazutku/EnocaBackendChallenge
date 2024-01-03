@@ -13,11 +13,6 @@ spring.datasource.password=postgres
 spring.jpa.hibernate.ddl-auto=update
 ```
 
-### Docker
-```
-docker-compose up --build
-```
-
 ### Maven
 ```
 mvn clean install
